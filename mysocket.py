@@ -9,3 +9,5 @@ port = 80
 
 server_ip = socket.gethostbyname(server)
 print(server_ip)
+
+hello
