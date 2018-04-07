@@ -16,3 +16,5 @@ world
 dog
 
 monkey
+
+new monkey
